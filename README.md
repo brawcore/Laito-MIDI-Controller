@@ -9,5 +9,3 @@ The Laito MIDI Controller combines various input mechanisms to provide a compreh
 With its ergonomic design, the Laito MIDI Controller ensures comfort and ease of use, allowing musicians to focus on their performance without distraction. Its compact size and portability make it a convenient companion for gigs and rehearsals, while its customizable features ensure compatibility with diverse MIDI setups.
 
 Whether you're a bassist, guitarist, or any other musician in need of a versatile MIDI controller, the Laito MIDI Controller is here to enhance your live performances. Empowering you with foot-controlled and one-handed gesture-based capabilities, this controller will help you unleash your creativity and take your musical expression to new heights.
-
-Note: Remember to include technical details, specifications, and any relevant information about the project in the actual description on your GitHub page.
